@@ -4,7 +4,7 @@ Yugdeep Singh Bhatia
 yugdeep.singhbhatia.che20@itbhu.ac.in
 Roll No. 20045151
 Indian Institute of Technology, Varanasi (BHU)
-Ph : +91 74630 63862
+
 
 The file `train__task3.py` reproduces GPT-2 (124M) on OpenWebText, running on a single 8XA100 40GB node in about 4 days of training. The code itself is plain and readable: `train_task3.py` is a ~300-line boilerplate training loop and `model_task1.py` a ~300-line GPT model definition, which can optionally load the GPT-2 weights from OpenAI.
 
